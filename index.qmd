@@ -21,3 +21,6 @@ I aspire to apply data science in solving real-world problems through interactiv
 ## Education
 Bachelor's Degree in Aerospace Engineer  
 University of California, San Diego
+
+<!-- force commit trigger -->
+
