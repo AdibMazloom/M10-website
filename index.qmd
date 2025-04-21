@@ -4,6 +4,8 @@ format: html
 ---
 
 # Welcome to My Website
+<!-- added space to trigger rebuild -->
+
 
 ![Your Photo Here](your-photo.jpg){width=200px}
 
