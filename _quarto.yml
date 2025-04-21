@@ -1,0 +1,30 @@
+---
+project:
+  type: website
+  output-dir: docs
+
+title: "My R Portfolio"
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    code-fold: true
+website:
+  title: "My R Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: dashboard.qmd
+        text: Dashboard
+      - href: shiny_apps.qmd
+        text: Essay on Shiny Apps
+      - href: shiny_live.qmd
+        text: Essay on Shiny Live
+  page-navigation: true
+  site-url: "https://adibmazloom.github.io/M10-website"
+  repo-url: "https://github.com/adibmazloom/M10-website"
+  repo-actions: [source, edit, issue]
+---

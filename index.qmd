@@ -1,0 +1,21 @@
+---
+title: "Home"
+format: html
+---
+
+# Welcome to My Website
+
+![Your Photo Here](your-photo.jpg){width=200px}
+
+## Career Aspiration
+I aspire to apply data science in solving real-world problems through interactive analytics and R programming.
+
+## Skills
+- R Programming
+- Data Visualization (ggplot2, Quarto)
+- Shiny Apps & Shinylive
+- Statistical Analysis
+
+## Education
+Bachelor's Degree in [Your Major]  
+[Your University Name]  

@@ -1,0 +1,29 @@
+---
+title: "Essay on Shiny Live"
+format: html
+---
+
+# Essay on Shinylive
+
+## What is Shinylive?
+
+Shinylive is a new serverless framework that allows you to run Shiny apps **entirely in the browser**—no R server required.
+
+## Key Differences from Traditional Shiny
+
+| Shiny (Traditional) | Shinylive |
+|---------------------|-----------|
+| Requires R server   | Runs in browser |
+| More powerful       | Lightweight |
+| Server cost         | Free to host on static sites |
+
+## Pros and Cons
+
+**Pros:**
+- No backend required
+- Runs on GitHub Pages
+- Fast to deploy
+
+**Cons:**
+- Limited interactivity (no file uploads, persistent memory)
+- Only for small/medium apps
