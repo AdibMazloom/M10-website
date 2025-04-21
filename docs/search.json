@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "shiny_live.html",
+    "href": "shiny_live.html",
+    "title": "Essay on Shiny Live",
+    "section": "",
+    "text": "Shinylive is a new serverless framework that allows you to run Shiny apps entirely in the browser—no R server required.\n\n\n\n\n\n\nShiny (Traditional)\nShinylive\n\n\n\n\nRequires R server\nRuns in browser\n\n\nMore powerful\nLightweight\n\n\nServer cost\nFree to host on static sites\n\n\n\n\n\n\nPros: - No backend required - Runs on GitHub Pages - Fast to deploy\nCons: - Limited interactivity (no file uploads, persistent memory) - Only for small/medium apps"
+  },
+  {
+    "objectID": "shiny_live.html#what-is-shinylive",
+    "href": "shiny_live.html#what-is-shinylive",
+    "title": "Essay on Shiny Live",
+    "section": "",
+    "text": "Shinylive is a new serverless framework that allows you to run Shiny apps entirely in the browser—no R server required."
+  },
+  {
+    "objectID": "shiny_live.html#key-differences-from-traditional-shiny",
+    "href": "shiny_live.html#key-differences-from-traditional-shiny",
+    "title": "Essay on Shiny Live",
+    "section": "",
+    "text": "Shiny (Traditional)\nShinylive\n\n\n\n\nRequires R server\nRuns in browser\n\n\nMore powerful\nLightweight\n\n\nServer cost\nFree to host on static sites"
+  },
+  {
+    "objectID": "shiny_live.html#pros-and-cons",
+    "href": "shiny_live.html#pros-and-cons",
+    "title": "Essay on Shiny Live",
+    "section": "",
+    "text": "Pros: - No backend required - Runs on GitHub Pages - Fast to deploy\nCons: - Limited interactivity (no file uploads, persistent memory) - Only for small/medium apps"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Your Photo Here\n\n\n\n\nI aspire to apply data science in solving real-world problems through interactive analytics and R programming.\n\n\n\n\nR Programming\nData Visualization (ggplot2, Quarto)\nShiny Apps & Shinylive\nStatistical Analysis\n\n\n\n\nBachelor’s Degree in [Your Major]\n[Your University Name]"
+  },
+  {
+    "objectID": "index.html#career-aspiration",
+    "href": "index.html#career-aspiration",
+    "title": "Home",
+    "section": "",
+    "text": "I aspire to apply data science in solving real-world problems through interactive analytics and R programming."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Home",
+    "section": "",
+    "text": "R Programming\nData Visualization (ggplot2, Quarto)\nShiny Apps & Shinylive\nStatistical Analysis"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "",
+    "text": "Bachelor’s Degree in [Your Major]\n[Your University Name]"
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
+    "section": "",
+    "text": "1 Dashboard\nThis page contains my Quarto dashboard using a dataset of my choice.\n\n\nCode\n# Sample summary plot using built-in data\nlibrary(ggplot2)\nggplot(mpg, aes(class)) +\n  geom_bar(fill = \"steelblue\") +\n  theme_minimal()"
+  },
+  {
+    "objectID": "shiny_apps.html",
+    "href": "shiny_apps.html",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "Shiny is an R package that allows you to build interactive web applications directly from R.\n\n\nShiny lets you wrap R code with a user interface so users can interact with data and visualizations in real-time.\n\n\n\n\nInteractive dashboards\nReal-time data analysis\nEducational tools\n\n\n\n\nTo teach Shiny, I’d cover: - The ui and server structure - Reactive expressions - shinyApp(ui, server) framework"
+  },
+  {
+    "objectID": "shiny_apps.html#what-is-shiny",
+    "href": "shiny_apps.html#what-is-shiny",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "Shiny lets you wrap R code with a user interface so users can interact with data and visualizations in real-time."
+  },
+  {
+    "objectID": "shiny_apps.html#example-use-cases",
+    "href": "shiny_apps.html#example-use-cases",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "Interactive dashboards\nReal-time data analysis\nEducational tools"
+  },
+  {
+    "objectID": "shiny_apps.html#teaching-notes",
+    "href": "shiny_apps.html#teaching-notes",
+    "title": "Essay on Shiny Apps",
+    "section": "",
+    "text": "To teach Shiny, I’d cover: - The ui and server structure - Reactive expressions - shinyApp(ui, server) framework"
+  }
+]

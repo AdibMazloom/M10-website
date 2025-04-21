@@ -1,4 +1,3 @@
----
 project:
   type: website
   output-dir: docs
@@ -27,4 +26,3 @@ website:
   site-url: "https://adibmazloom.github.io/M10-website"
   repo-url: "https://github.com/adibmazloom/M10-website"
   repo-actions: [source, edit, issue]
----
