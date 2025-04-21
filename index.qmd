@@ -7,7 +7,7 @@ format: html
 <!-- added space to trigger rebuild -->
 
 
-![Your Photo Here](your-photo.jpg){width=200px}
+![Adib Mazloom](Final.jpg){width=200px}
 
 ## Career Aspiration
 I aspire to apply data science in solving real-world problems through interactive analytics and R programming.
