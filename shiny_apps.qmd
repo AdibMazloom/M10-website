@@ -1,0 +1,25 @@
+---
+title: "Essay on Shiny Apps"
+format: html
+---
+
+# Essay on Shiny Apps
+
+Shiny is an R package that allows you to build interactive web applications directly from R.
+
+## What is Shiny?
+
+Shiny lets you wrap R code with a user interface so users can interact with data and visualizations in real-time.
+
+## Example Use Cases
+
+- Interactive dashboards
+- Real-time data analysis
+- Educational tools
+
+## Teaching Notes
+
+To teach Shiny, I’d cover:
+- The `ui` and `server` structure
+- Reactive expressions
+- `shinyApp(ui, server)` framework

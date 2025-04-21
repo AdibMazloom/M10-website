@@ -1,0 +1,16 @@
+---
+title: "Dashboard"
+format: html
+---
+
+# Dashboard
+
+This page contains my Quarto dashboard using a dataset of my choice.
+
+```{r}
+# Sample summary plot using built-in data
+library(ggplot2)
+ggplot(mpg, aes(class)) +
+  geom_bar(fill = "steelblue") +
+  theme_minimal()
+```
